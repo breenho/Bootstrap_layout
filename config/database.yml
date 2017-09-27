@@ -49,6 +49,6 @@ test:
 #
 production:
   <<: *default
-  database: bootstrap_production
-  username: bootstrap
-  password: <%= ENV['BOOTSTRAP_DATABASE_PASSWORD'] %>
+  database: dating_production
+  username: datinguser
+  password: <%= ENV['DATING_DATABASE_PASSWORD'] %>
