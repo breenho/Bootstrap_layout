@@ -12,4 +12,7 @@
 //
 //= require rails-ujs
 //= require turbolinks
+//= require active_admin
+//= require popper.min
+//= require agency.min
 //= require_tree .
