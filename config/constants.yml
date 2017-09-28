@@ -1,0 +1,15 @@
+development:
+  url: 'http://localhost:3000/admin'
+  ajax_url: 'http://localhost:3000'
+  image_url: 'http://localhost:3000'
+  # s3_url: 'https://s3-us-west-2.amazonaws.com/fhlweb'
+  # s3_host: 's3-us-west-2'
+  # image_domain: ""
+
+production:
+  url: 'http://34.213.232.111/admin'
+  ajax_url: 'http://34.213.232.111'
+  image_url: 'http://34.213.232.111'
+  # s3_url: 'https://s3-us-west-2.amazonaws.com/fhlweb'
+  # s3_host: 's3-us-west-2'
+  # image_domain: ""

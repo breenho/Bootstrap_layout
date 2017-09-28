@@ -10,9 +10,14 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
+//= require jquery.min
+//= require popper.min
+//= require bootstrap.min
+//= require jquery.easing.min
+//= require jqBootstrapValidation
+//= require contact_me
+//= require agency.min
+//= require cable
 //= require rails-ujs
 //= require turbolinks
-//= require active_admin
-//= require popper.min
-//= require agency.min
-//= require_tree .
+// require_tree .
