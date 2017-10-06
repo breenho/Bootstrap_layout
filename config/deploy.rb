@@ -12,7 +12,7 @@ set :deploy_to, "/var/www/Bootstrap_layout"
 
 # Default value for :format is :airbrussh.
 # set :format, :airbrussh
-set :scm, :git
+# set :scm, :git
 
 # You can configure the Airbrussh format using :format_options.
 # These are the defaults.
